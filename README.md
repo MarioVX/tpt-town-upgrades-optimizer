@@ -1,7 +1,11 @@
 The Perfect Tower - Town Upgrades Optimizer
+
 game by XmmmX99 & SpeedyBrain
+
 found here: https://www.kongregate.com/games/XmmmX99/the-perfect-tower
+
 script by MarioVX
+
 Version 1.0
 
 This script for the game "The Perfect Tower" calculates optimal Town Credits allocations
@@ -10,6 +14,7 @@ The only upgrades compared explicitly are those with inambiguously quantifiable 
    * Conversion Rate from BPT to TC
    * Special Resource Drop Rate bonus per unspent TC
    * Statistics Bonus Increase.
+
 The benefit of all other Town Upgrades depends on a fair amount of assumptions and can vary.
 Therefore, the script also contains functions to check the opportunity cost of a different upgrade,
 and allow the user to guess himself whether it is worth it or not.
