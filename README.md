@@ -28,5 +28,7 @@ How to use:
    4. A small command prompt window should appear with self-explanatory on-screen instructions.
 
 Contact:
+
 For discussion or help, here is the release thread on Kong for this script:
+
 https://www.kongregate.com/forums/32139-the-perfect-tower/topics/1796822-town-upgrades-optimizer
