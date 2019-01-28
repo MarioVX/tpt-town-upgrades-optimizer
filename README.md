@@ -20,3 +20,9 @@ Therefore, the script also contains functions to check the opportunity cost of a
 and allow the user to guess himself whether it is worth it or not.
 For a specific benefit assumption, the script can also search for the TC amount at which this becomes worth it.
 Special version for the Speed upgrades included so users don't have to bother with the benefit calculation.
+
+How to use:
+   1. You need Python 3 installed on your computer to run this script: https://www.python.org/
+   2. Read TCopt.py first to see for yourself that this is nothing harmful.
+   3. Download and run TCopt.py.
+   4. A small command prompt window should appear with self-explanatory on-screen instructions.
