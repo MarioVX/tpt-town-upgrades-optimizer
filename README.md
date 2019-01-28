@@ -26,3 +26,7 @@ How to use:
    2. Read TCopt.py first to see for yourself that this is nothing harmful.
    3. Download and run TCopt.py.
    4. A small command prompt window should appear with self-explanatory on-screen instructions.
+
+Contact:
+For discussion or help, here is the release thread on Kong for this script:
+https://www.kongregate.com/forums/32139-the-perfect-tower/topics/1796822-town-upgrades-optimizer
